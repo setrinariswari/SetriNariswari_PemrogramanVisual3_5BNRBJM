@@ -4,7 +4,7 @@ susunan=[[sg.Text("UNISKA MAB",font=("helvetica",24))],
 window = sg.Window(title="New Icon",
                    layout=susunan,
                    element_justification = "center",
-                   icon="favicon.ico",
+                   icon="latihanmodul3_favicon.ico",
                    resizable=True,
                    size=(430,200))
 
